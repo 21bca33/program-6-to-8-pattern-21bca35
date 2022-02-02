@@ -1,4 +1,4 @@
-/* write a program to print following patten.
+///* write a program to print following patten.
 date:27/12/2021*/
 
 #include<stdio.h>
